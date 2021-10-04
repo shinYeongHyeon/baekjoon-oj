@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/shinYeongHyeon/boj/practice/p10998"
+	"github.com/shinYeongHyeon/boj/practice/p1008"
 )
 
 func main()  {
-	p10998.Exec()
+	p1008.Exec()
 }
