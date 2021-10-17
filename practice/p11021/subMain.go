@@ -1,4 +1,4 @@
-package main
+package p11021
 
 import (
 	"bufio"
@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-func main()  {
+func Exec() {
 	var testLength int
 
 	fmt.Scanln(&testLength)
