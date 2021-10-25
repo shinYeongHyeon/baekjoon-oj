@@ -1,7 +1,7 @@
 package main
 
-import "github.com/shinYeongHyeon/boj/practice/p10951"
+import "github.com/shinYeongHyeon/boj/practice/p1110"
 
 func main() {
-	p10951.Exec()
+	p1110.Exec()
 }
