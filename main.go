@@ -1,10 +1,7 @@
 package main
 
-import (
-	"github.com/shinYeongHyeon/boj/practice/p1237"
-)
+import "github.com/shinYeongHyeon/boj/practice/p1152"
 
 func main() {
-	// ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
-	p1237.Exec()
+	p1152.Exec()
 }
